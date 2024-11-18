@@ -27,7 +27,7 @@ Activate the virtual environment:
 
 - **Windows**: 
 ```bash
-.env\Scriptsctivate
+.env\Scripts\activate
 ```
 
 - **Mac/Linux**:
@@ -121,6 +121,3 @@ The application will start at `http://127.0.0.1:8000`.
 - If you encounter errors related to missing dependencies, ensure all required libraries are installed using the `requirements.txt` file.
 - For database connection issues, verify the database credentials in `db.py`.
 
-## License
-
-MIT License. See LICENSE for details.
